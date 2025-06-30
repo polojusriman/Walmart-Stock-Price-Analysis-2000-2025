@@ -24,7 +24,7 @@ Key insights are generated using pandas, seaborn, matplotlib, and Prophet. The p
 ## 📁 Files
 - `walmart_stock_analysis.ipynb`: Main Jupyter/Colab notebook
 - `wmt_data.csv`: Historical Walmart stock dataset
-- `walmart.pdf`: (Optional) Exported PDF version of the notebook
+- `walmart.pdf`: Exported PDF version of the notebook
 - `README.md`: Project summary and documentation
 
 ---
